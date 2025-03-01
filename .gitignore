@@ -3,3 +3,10 @@
 package-lock.json
 *.zip
 node_modules/
+*.pdf 
+*.o
+*.out
+*.docx
+*.png
+.vscode/
+*.lst
